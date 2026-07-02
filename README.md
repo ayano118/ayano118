@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-### 🛠️ 使っている技術（使うものだけ残す）
+### 🛠️ 使っている技術
 
 <p align="left">
   <!--
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats（YOUR_USERNAME を置換するだけで自動表示）
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayano118&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
