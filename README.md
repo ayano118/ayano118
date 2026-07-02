@@ -1,22 +1,18 @@
-<h1 align="center">Hello, My name is Ayano 👋</h1>
-
 <p align="center">
-  <em>enjoy coding!!</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ayano&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=Hello%20world!&descSize=20&descAlignY=55" alt="header" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayano118&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 
 <!--
 **ayano118/ayano118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on web development with team
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ios app
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: e225212.ryukyu@gmail.com
