@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on web development with team
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on ios app
+- 📫 How to reach me: e225212.ryukyu@gmail.com
+  
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: e225212.ryukyu@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 
 ### 🛠️ 使っている技術
