@@ -1,67 +1,82 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ayano&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=Hello%20world!&descSize=20&descAlignY=55" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:7B68EE,100:5B5EA6&height=240&section=header&text=Ayano%20Sueoka&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20NLP%20Research%20%7C%20Web%20Development&descSize=20&descAlignY=56"/>
 </p>
+
+<h2 align="center">Hi there! 👋</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayano118&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+I'm <b>Ayano Sueoka</b>, a Master's student at the University of the Ryukyus.<br>
+I'm passionate about <b>Natural Language Processing</b>, <b>Large Language Models</b>, and <b>Web Development</b>.
 </p>
 
-<!--
-**ayano118/ayano118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on web development with team
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on ios app
-- 📫 How to reach me: e225212.ryukyu@gmail.com
-  
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 🛠️ 使っている技術
-
-<p align="left">
-  <!--
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <!--
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayano118&label=Profile%20Views&color=6A5ACD&style=flat" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🌱 About Me
+
+- 🎓 Master's Student in Computer Science
+- 🤖 Researching **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**
+- 💻 Currently developing a **team web application**
+- 🌱 Learning **Go** and backend development
+- 🌏 Research Intern @ ABV-IIITM Gwalior (India)
+- 📱 Interested in AI, Backend, and iOS Development
+
+---
+
+## 🧠 Research
+
+> **Temporal Ambiguity Resolution in Large Language Models**
+
+I'm exploring how LLMs interpret ambiguous temporal expressions such as **"today"**, **"tomorrow"**, and **"yesterday"**, aiming to improve temporal reasoning in natural language understanding.
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayano118&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayano118&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayano118&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,go,java,html,css,js,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-### 🔗 Links
+## 🚀 Featured Projects
 
-<p align="left">
-  <!--
-  <a href="https://twitter.com/【ユーザー名】"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  -->
-  <a href="https://www.linkedin.com/in/ayano-sueoka-415"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!--
-  <a href="【あなたのサイトURL】"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  -->
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal portfolio built with HTML, CSS and JavaScript |
+| 💬 AI Therapist Dialogue Analysis | Bachelor's thesis using Sentence-BERT to analyze LLM-generated counseling dialogues |
+| 🩻 Medical Image Classification | CNN-based chest X-ray classification during research internship in India |
+| 👥 Team Web Development | Developing a web application collaboratively |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ayano118&theme=tokyonight&hide_border=true" />
+</p>
+
+> *GitHub Readme Stats is currently unavailable on some public deployments.*
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayano-sueoka-415">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:e225212.ryukyu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! ✨
 </p>
